@@ -10,3 +10,9 @@ body {
   border-radius: 16px;
   padding: 30px;
 }
+.search-form-input {
+  background-color: #f9f7fe;
+  border: none;
+  border-radius: 6px;
+  width: 60%;
+}
