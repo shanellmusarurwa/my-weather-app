@@ -46,7 +46,26 @@ main {
 .weather-app-details {
   font-size: 16px;
   color: rgba(39, 33, 66, 0.4);
-  line-height: 20px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.weather-app-details strong {
+  color: #f65282;
+}
+.weather-app-container {
+  display: flex;
+}
+.weather-app-icon {
+  font-size: 44px;
+  margin-top: 22px;
+  margin-left: 10px;
+}
+.weather-app-temp {
+  font-size: 88px;
+}
+.weather-app-unit {
+  margin-top: 16px;
+  font-size: 28px;
 }
 footer {
   border-top: 1px solid #f9f7fe;
